@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+qy700_*.png
+qy700_*.syx
